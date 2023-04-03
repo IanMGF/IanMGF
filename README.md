@@ -1,3 +1,3 @@
 - 👋 <b>Ian</b>
-- ✨ Python, Java, Javascript, HTML/CSS
+- ✨ Python, Java/Kotlin, Javascript, HTML/CSS, C/C++
 - 📫 ianmarcosgomesefreitas@gmail.com
